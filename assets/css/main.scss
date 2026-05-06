@@ -37,3 +37,32 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+header .navbar {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
+
+header .navbar .nav-item.active .nav-link,
+header .navbar .nav-item .nav-link.active {
+  font-weight: 800 !important;
+}
+
+.cv .badge {
+  min-width: 115px !important;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  padding-top: 0.35em !important;
+  padding-bottom: 0.31em !important;
+}
+
+.cv .location {
+  display: block !important;
+  text-align: center !important;
+  margin-top: 0.2rem;
+}
+
+.social .contact-icons {
+  font-size: 3rem !important; 
+}
