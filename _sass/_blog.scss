@@ -11,6 +11,11 @@
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+
+    // smaller size on mobile
+    @media (max-width: 768px) {
+      font-size: 2.5rem;
+    }
   }
 }
 
@@ -101,6 +106,10 @@
 }
 
 .post {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;

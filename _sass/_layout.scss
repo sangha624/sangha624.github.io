@@ -19,6 +19,16 @@ body {
   }
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre, code {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
   padding-top: 57px;
@@ -31,6 +41,8 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: v.$max-content-width;
+  width: 100%;
+  overflow-x: hidden;
 }
 
 // Profile

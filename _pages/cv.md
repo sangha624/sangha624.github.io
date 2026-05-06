@@ -3,10 +3,11 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 2
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+nav_order: 1
+display_title: Curriculum Vitae
+cv_pdf: /assets/pdf/cv_240523.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Last update - May 23, 2024
 toc:
   sidebar: left
 ---
