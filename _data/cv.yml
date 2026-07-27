@@ -24,7 +24,6 @@ cv:
         highlights:
           - "Advisor: Professor Ho Seok Park"
           - "Research focus: Synthesis and application of 2D materials and single atom-decorated materials for energy storage."
-          - "Fulfilling mandatory military service concurrently (See Experience)."
 
       - institution: Sungkyunkwan University (SKKU)
         location: Suwon, KR
@@ -45,13 +44,6 @@ cv:
         highlights:
           - "Investigated the electrochemical deposition/dissolution process of MnO<sub>2</sub> utilizing Electrochemical Quartz Crystal Microbalance (EQCM) as the primary analytical technique."
           - "Contributed experimental data and analysis leading to a <a href='https://doi.org/10.1039/D5TA10427K' target='_blank' rel='noopener noreferrer' style='text-decoration: underline; color: inherit;'>co-authored publication</a>."
-
-      - company: Sungkyunkwan University (SKKU)
-        position: Expert Researcher (Alternative Military Service)
-        location: Suwon, KR
-        start_date: 2023-03-01
-        end_date: 2026-10-22
-        summary: Selected as an Expert Researcher (전문연구요원) by the Korean government to fulfill mandatory military service duties through advanced academic research.
 
     Skills:
       - name: Experimental Techniques
