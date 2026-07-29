@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-29'
 papers:
   McI_PLgAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: "Hierarchically structured silicon/graphene composites wrapped by interconnected carbon nanotube branches for lithium\u2010ion battery anodes"
     year: '2022'
   McI_PLgAAAAJ:8k81kl-MbHgC:
-    citations: 6
+    citations: 8
     title: Two-dimensional polymeric metal phthalocyanines with anion fluxing and Li-ion-conducting properties for lithium metal full batteries
     year: '2025'
   McI_PLgAAAAJ:9yKSN-GCB0IC:
@@ -23,7 +23,7 @@ papers:
     year: '2024'
   McI_PLgAAAAJ:MXK_kJrjxJIC:
     citations: 1
-    title: Characterizing the MnO 2 dissolution process via EQCM for rechargeable aqueous batteries
+    title: Characterizing the MnO2 dissolution process via EQCM for rechargeable aqueous batteries
     year: '2026'
   McI_PLgAAAAJ:Tyk-4Ss8FVUC:
     citations: 18
@@ -54,7 +54,7 @@ papers:
     title: MXene ink hosting zinc anode for high performance aqueous zinc metal batteries
     year: '2023'
   McI_PLgAAAAJ:u-x6o8ySG0sC:
-    citations: 64
+    citations: 66
     title: Galvanically replaced artificial interfacial layer for highly reversible zinc metal anodes
     year: '2022'
   McI_PLgAAAAJ:u5HHmVD_uO8C:
@@ -62,6 +62,6 @@ papers:
     title: Electrospun conductive carbon nanofiber hosts for stable zinc metal anode
     year: '2022'
   McI_PLgAAAAJ:zYLM7Y9cAGgC:
-    citations: 43
+    citations: 44
     title: Intercalation of bilayered V2O5 by electronically coupled PEDOT for greatly improved kinetic performance of magnesium ion battery cathodes
     year: '2023'
