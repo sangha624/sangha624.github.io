@@ -14,3 +14,6 @@ Gemfile.lock
 node_modules/
 vendor
 _cv_source/
+
+# CV 편집 원본 — assets/pdf/ 는 사이트에서 공개되는 경로라 워드 원본은 두지 않는다
+assets/pdf/*.docx
