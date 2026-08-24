@@ -218,3 +218,9 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+// Generic CV sections (e.g. Patents) render one .card-text div per entry;
+// give consecutive entries breathing room so they don't read as one block.
+.cv .card .card-text + .card-text {
+  margin-top: 0.65rem;
+}

@@ -45,6 +45,35 @@ cv:
           - "Investigated the electrochemical deposition/dissolution process of MnO<sub>2</sub> utilizing Electrochemical Quartz Crystal Microbalance (EQCM) as the primary analytical technique."
           - "Contributed experimental data and analysis leading to a <a href='https://doi.org/10.1039/D5TA10427K' target='_blank' rel='noopener noreferrer' style='text-decoration: underline; color: inherit;'>co-authored publication</a>."
 
+    Patents:
+      - label: "Anode electrode, manufacturing method thereof and secondary battery using the same"
+        details: "KR 10-2914170 &middot; <strong>Registered</strong> 13 Jan 2026 (filed 30 May 2023, appl. 10-2023-0069223) &middot; Also filed in the US as 18/678,394 (<a href=&quot;https://patents.google.com/patent/US20240405222A1/en&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;>US 2024/0405222 A1</a>, published 5 Dec 2024) &middot; H. S. Park, <strong>S. H. Baek</strong>, J. S. Byun"
+
+      - label: "Aqueous&ndash;non-aqueous hybrid electrolyte for zinc ion batteries and method for preparing the same"
+        details: "KR 10-2892563 &middot; <strong>Registered</strong> 25 Nov 2025 (filed 1 Nov 2022, appl. 10-2022-0144097) &middot; H. S. Park, P. Xiong, <strong>S. H. Baek</strong>, J. M. Park"
+
+      - label: "Aluminum ion secondary battery, and electrolyte, anode, and manufacturing methods therefor"
+        details: "KR 10-2803957 &middot; <strong>Registered</strong> 30 Apr 2025 (filed 9 Nov 2022, appl. 10-2022-0148345) &middot; H. S. Park, Q. Dou, <strong>S. H. Baek</strong>, J. M. Park"
+
+      - label: "Phosphorene oxide-coated zinc ion electrode, zinc ion battery including the same, and method for manufacturing the electrode"
+        details: "KR 10-2607004 &middot; <strong>Registered</strong> 23 Nov 2023 (filed 29 Mar 2021, appl. 10-2021-0040206) &middot; H. S. Park, <strong>S. H. Baek</strong>, J. M. Park, T. H. Kang"
+
+      - label: "Zinc metal electrode having an artificial interfacial layer and method for manufacturing the same"
+        details: "KR 10-2598835 &middot; <strong>Registered</strong> 1 Nov 2023 (filed 22 Apr 2021, appl. 10-2021-0052099) &middot; H. S. Park, P. Xiong, J. M. Park, <strong>S. H. Baek</strong>"
+
+      - label: "Composite separator for lithium&ndash;sulfur secondary batteries comprising transition metal-incorporated black phosphorus oxide, and method for preparing the same"
+        details: "KR appl. 10-2025-0087835 &middot; <strong>Under examination</strong> (filed 1 Jul 2025) &middot; H. S. Park, J. M. Park, <strong>S. H. Baek</strong>"
+
+    Conference Presentations:
+      - label: "242nd ECS Meeting &mdash; Atlanta, GA, USA (9&ndash;13 Oct 2022)"
+        details: "<strong>Oral presentation</strong> &middot; <strong>S. H. Baek</strong>, J. M. Park, T. H. Kang, H. S. Park, &ldquo;Enhancing Aqueous Zinc Metal Anode Reversibility with the Nucleation Sites Given by Oxidized Black Phosphorus&rdquo; &middot; Symposium A01: New Approaches and Advances in Electrochemical Energy Systems"
+
+    Awards:
+      - title: "Excellent Paper Presentation Award (우수논문상)"
+        awarder: "Korean Society of Industrial and Engineering Chemistry (KSIEC), 2025 Spring Meeting"
+        date: "2025-06-03"
+        summary: "Selected as an outstanding poster presentation for “Organic-inorganic coating for stabilizing zinc metal anode” (<strong>S. H. Baek</strong>, H. S. Park). Certificate no. KSIEC 2025-084."
+
     Skills:
       - name: Experimental Techniques
         level: Advanced
